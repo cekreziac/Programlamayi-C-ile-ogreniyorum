@@ -1,0 +1,1 @@
+Bu bolumde 4 KONU SORU CALISMA SORULARI bulunmaktadir.
