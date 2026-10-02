@@ -1,1 +1,1 @@
-Bu bolumde KONU SONU CALISMA SORULARI bulunmamaktadir.
+Bu bölümde KONU SONU ÇALIŞMA SORULARI bulunmamaktadir.
