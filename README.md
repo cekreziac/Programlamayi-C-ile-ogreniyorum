@@ -1,5 +1,5 @@
 # Description
 
-Bu repoda "Programlamayi C ile ogreniyorum, yenilenmis 7 baski" Kitabinin konus soru calisma sorularin cozumleri (kendimce, yapay zekasiz) olacak.
+Bu repoda "Programlamayı C ile öğreniyorum, yenilenmiş 7 baskı" Kitabının konu soru çalişma soruların çözümleri (kendimce, yapay zekasız) olacak.
 
 
